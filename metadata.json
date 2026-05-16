@@ -1,0 +1,5 @@
+{
+  "name": "VR Cinema Pro",
+  "description": "一款通用的 2D/3D VR 影片播放器，支援遙控器按鍵對應、瞳距調整和內容搜尋功能。",
+  "requestFramePermissions": []
+}
